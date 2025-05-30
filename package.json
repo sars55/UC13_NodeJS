@@ -1,0 +1,27 @@
+{
+  "name": "uc13_nodejs",
+  "version": "1.0.0",
+  "description": "Software em NodeJS para prática na UC 13 do curso Técnico em Informática no Senac Salto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leorocco/UC13_NodeJS.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "express-handlebars",
+    "bootstrap",
+    "mysql",
+    "e-commerce"
+  ],
+  "author": "Leonardo Rocco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leorocco/UC13_NodeJS/issues"
+  },
+  "homepage": "https://github.com/leorocco/UC13_NodeJS#readme"
+}
